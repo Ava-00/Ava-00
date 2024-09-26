@@ -2,8 +2,10 @@
 - 🎓 Master of Science and Engineering in Data Science (Johns Hopkins University)
 - 💻 Specializing in Machine Learning, Data Science, and Consulting
 - 📊 Key skills: Python, R, SQL, SPSS, Machine Learning
-- 🏥 Interested in Healthcare, Life Sciences, and Strategy Consulting
-- 🌱 Always learning and improving!
+- 🏥 Interested in AI/ML in Life Sciences and Healthcare, Algorithmic Bias and Fairness in Machine Learning Models and Causal Inference
+- ⚡ Former Strategy and Management Consulting at Accenture Strategy
+- 📫 How to reach me: Email: avantikasingh.617@gmail.com, Phone: +1 (443) 413-7860
+- 😄 Pronouns: she/her
 - 🔗 [LinkedIn](https://www.linkedin.com/in/avantika-singh-2a5996155/) |
 
 <!--

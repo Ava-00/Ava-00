@@ -6,7 +6,7 @@
 - ⚡ Former Strategy and Management Consulting at Accenture Strategy
 - 📫 How to reach me: Email: avantikasingh.617@gmail.com, Phone: +1 (443) 413-7860
 - 😄 Pronouns: she/her
-- 🔗 [LinkedIn](https://www.linkedin.com/in/avantika-singh-2a5996155/) |
+- 🔗 [LinkedIn](https://www.linkedin.com/in/avantika-singh-2a5996155/) 
 
 <!--
 **Ava-00/Ava-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

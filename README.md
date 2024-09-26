@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Avantika]
+## 👋 Hi, I'm Avantika
 - 🎓 Master of Science and Engineering in Data Science (Johns Hopkins University)
 - 💻 Specializing in Machine Learning, Data Science, and Consulting
 - 📊 Key skills: Python, R, SQL, SPSS, Machine Learning

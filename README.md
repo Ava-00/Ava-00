@@ -1,4 +1,4 @@
-# Avantika Singh
+# Hi! I am Avantika Singh and I am excited to share my work with you!
 
 **📧 Email**: [asing153@jh.edu](mailto:asing153@jh.edu)  
 **🔗 LinkedIn**: [linkedin.com/in/avantika-singh-2a5996155/](https://www.linkedin.com/in/avantika-singh-2a5996155/)  

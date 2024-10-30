@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Avantika
 - 🎓 Master of Science and Engineering in Data Science (Johns Hopkins University)
+- 🎓 Bachelors of Science (Honours) Statistics (Lady Shri Ram College for Women, University of Delhi)
 - 💻 Specializing in Machine Learning, Data Science, and Consulting
 - 📊 Key skills: Python, R, SQL, SPSS, Machine Learning
 - 🏥 Interested in AI/ML in Life Sciences and Healthcare, Algorithmic Bias and Fairness in Machine Learning Models and Causal Inference

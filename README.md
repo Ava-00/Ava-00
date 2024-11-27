@@ -1,4 +1,3 @@
-Here’s an updated **README** draft based on your latest CV:
 
 ---
 

@@ -8,14 +8,6 @@
 
 ---
 
-# 👩‍💻 Avantika Singh  
-📧 **Email**: asing153@jh.edu  
-📞 **Phone**: +1 (443) 413-7860  
-🌐 **LinkedIn**: [Avantika Singh](https://linkedin.com/in/avantika-singh-2a5996155)  
-📂 **GitHub**: [Ava-00](https://github.com/Ava-00)  
-
----
-
 ## 🎓 Education  
 **Johns Hopkins University** | Baltimore, MD | *Expected May 2026*  
 **Master of Science in Data Science**  

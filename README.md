@@ -86,7 +86,6 @@
 Feel free to reach out to discuss ideas, collaborate, or learn more about my work:  
 
 📧 **Email**: asing153@jh.edu  
-📂 **GitHub**: [Ava-00](https://github.com/Ava-00)  
 🌐 **LinkedIn**: [Avantika Singh](https://linkedin.com/in/avantika-singh-2a5996155)  
 
 🚀 Let’s innovate and create something impactful together!

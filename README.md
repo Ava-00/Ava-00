@@ -7,85 +7,79 @@
 **🔗 LinkedIn**: [linkedin.com/in/avantika-singh-2a5996155/](https://www.linkedin.com/in/avantika-singh-2a5996155/)  
 
 ---
+## 🧠 Education
 
-## 🎓 Education  
-**Johns Hopkins University** | Baltimore, MD | *Expected May 2026*  
-**Master of Science in Data Science**  
-- 📚 **Coursework**: Computational Biology, Bioinformatics, Bayesian Statistics, Machine Learning for Healthcare, Machine Translation  
-- 🎓 **Teaching Assistant**: Linear Econometrics in Finance, Carey Business School (*Fall 2024*)  
+**Johns Hopkins University** – *Master of Science in Data Science*  
+*Baltimore, MD | Expected 05/2026*  
+GPA: 3.85/4 (Semester 1)  
+Coursework: Self-Supervised Models, Machine Translation, Bayesian Statistics, Machine Learning for Healthcare
 
-**University of Delhi, Lady Shri Ram College for Women** | New Delhi, India | *Graduated May 2022*  
-**Bachelor of Science (Honors), Statistics; Minor: Economics**  
-- 📈 **GPA**: 9.365/10 (Distinction); 3.96/4  
-- 📚 **Key Coursework**: Advanced Statistical Theory, Econometrics, Biostatistics, Statistical Computing (Python, R, C++, SPSS), Financial Statistics  
-
----
-
-## 💡 Skills  
-**Programming**: Python, R, SQL, C, C++, SAS, MATLAB, LATEX, Databricks  
-**Utilities**: TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, NLTK, Statsmodels, Polars, Power BI, Tableau  
-**Techniques**: NLP, Supervised and Unsupervised Learning, PCA, Regression, Clustering, EDA, LSTM, Hypothesis Testing  
-**Project Management**: Agile Methodologies, SCRUM, Functional Testing, GitHub, JIRA, AWS  
+**University of Delhi, Lady Shri Ram College for Women** – *Bachelors of Science (Honors) in Statistics; Minor: Economics*  
+*New Delhi, India | Graduated: May 2022*  
+GPA: 9.365/10 (Distinction) | 3.96/4  
+Relevant Coursework: Advanced Statistical Theory, Linear Models, Biostatistics, Financial Statistics, Statistical Computing (Python, R, C++, SPSS)
 
 ---
 
-## 💼 Professional Experience  
+## 💻 Skills
+
+- **Programming**: Python, R, SPSS, C, C++, SQL, Apache Spark, MATLAB, LaTeX, STATA, Databricks, CUDA/GPU Parallelization
+- **Machine Learning & NLP**: TensorFlow, PyTorch, Keras, Scikit-Learn, NLTK, Pandas, NumPy, Statsmodels
+- **Tools & Frameworks**: Microsoft Tools, JIRA, GitHub, AWS, Google BigQuery, Power BI, Tableau
+- **Techniques**: EDA, A/B Testing, Regression, Clustering, PCA, Supervised & Unsupervised Learning, Model Deployment
+
+---
+
+## 🔬 Research & Professional Experience
+
+### **Graduate Research Assistant**  
+*Johns Hopkins Carey Business School | Oct 2024 – Present*  
+- Deployed Apache Spark and SQL to analyze EMR/EHR and SDOH data, investigating financial toxicity among oncology patients.
+- Optimized biomarker integration using BioPython, focusing on patient-centered oncology interventions.
 
 ### **Management Consulting Delivery Associate**  
-**Accenture Strategy, Life Sciences** | Bangalore, India | *Sep 2022 – Aug 2024*  
-- Expanded Accenture’s patient platform scope to 4+ clients globally; contributed to 15+ sales proposals with a 90% success rate.  
-- Engineered SQL-based analytical dashboards and automated workflows, saving 30+ employee hours weekly.  
-- Built training modules for clinical and R&D teams, boosting project efficiency by 60%.  
-- 🏆 **Awarded "Above and Beyond"** for exceptional contributions in Q2 2023.  
+*Accenture Strategy, Life Sciences | Bangalore, India | Sep 2022 – Aug 2024*  
+- Led the deployment of advanced features for Accenture’s patient platform built on Salesforce CRM.
+- Developed analytical models and dashboards, saving 30+ hours/week for employees and improving operational efficiency by 60%.
 
 ### **Summer Intern**  
-**Ernst & Young Consulting Services LLP** | New Delhi, India | *Jun 2021 – Sep 2021*  
-- Developed predictive models for pricing luxury bikes with 95% accuracy using regression techniques.  
-- Conducted a market entry feasibility study for a US agricultural tire manufacturer, achieving a 60% client success rate.  
+*Ernst and Young Consulting Services LLP | New Delhi, India | Jun 2021 – Sep 2021*  
+- Built predictive models for growth and pricing in the luxury bike market with 95% accuracy.
+- Created a market feasibility database for agricultural tire brands, supporting entry decisions for US firms.
 
 ---
 
-## 📊 Key Projects  
+## 🔧 Key Projects
 
-### **CliniQure: AI-Driven Diagnostic and Treatment Recommendations for Radiology**  
-**Johns Hopkins University** | *Nov 2024 – Present*  
-- Designed a multimodal AI pipeline combining Faster R-CNN, SE-ResNet, and a cross-modal LLM to detect abnormalities and generate diagnostic reports.  
+### **CliniQure** – *AI-Driven Diagnostic and Treatment Recommendations for Radiology*  
+*Johns Hopkins University | Nov 2024 – Present*  
+- Designed a multimodal AI pipeline combining Faster R-CNN, SE-ResNet, and a cross-modal LLM for chest X-ray analysis and automated diagnostic report generation.
 
 ### **Automated SOAP Note Generation**  
-**Johns Hopkins University** | *Nov 2024 – Present*  
-- Developed a robust ASR and NLP pipeline leveraging OpenAI’s Whisper and blaze999/Medical-NER to transcribe and structure physician-patient interactions.  
+*Johns Hopkins University | Nov 2024 – Present*  
+- Developed a robust ASR and NLP pipeline leveraging OpenAI’s Whisper and Medical-NER to transcribe and structure physician-patient interactions into SOAP notes.
 
-### **Modelling Algorithmic Biases in Healthcare**  
-**Johns Hopkins, Carey Business School** | *Oct 2024 – Present*  
-- Built a causal model to analyze biases in healthcare outcomes using EMR/EHR data, focusing on patient stratification and ethical AI.  
-
-### **Insight Edge**  
-**Accenture** | *May 2023 – Aug 2024*  
-- Automated workflows using Microsoft Power Apps and developed Power BI dashboards, optimizing efficiency by 67% and reducing costs by $10,000 annually.  
+### **Insight Edge** – *Accenture*  
+*May 2023 – Aug 2024*  
+- Engineered automated workflows for project staffing, saving senior leadership 45+ hours/week and nearly $10,000 in operational costs.
 
 ### **Testing Data Feminism**  
 *Apr 2021 – Oct 2021*  
-- Conducted hypothesis testing and k-means clustering in R to study biases in social media algorithms.  
-- Published findings in *"Testing Data Feminism in India"* (SJASS Online, ISSN 2347-5374).  
-
-### **Sentiment Analysis of Yelp Restaurant Reviews Dataset**  
-*Jan 2023 – May 2023*  
-- Applied LSTM and NLP tools to classify sentiment in restaurant reviews, achieving 85% accuracy.  
+- Conducted analysis on biases in social media algorithms using R, publishing findings in a paper titled *"Testing Data Feminism in India"*.
 
 ---
 
-## 🌟 Achievements and Leadership  
+## 🌟 Leadership & Achievements
 
-- 🏆 **Top 50** at ZS Prize 2020 (national entrepreneurship challenge) out of 6,000+ teams.  
-- 💡 **Founder**: Covid Aid Resources – Social initiative with 200k+ followers, sharing verified COVID-19 leads.  
-- 💬 **Debate Achievements**: President, College Academic Forum; Treasurer, English Debating Society; 20+ awards in debates and adjudications.  
+- **President, College Academic Forum (2021-2022)**  
+  Secured $3000 in sponsorships for an international debating tournament and led the team to win 20+ awards.
+- **Founder, "Covid Aid Resources"**  
+  Launched a social media initiative with 200k+ followers to share COVID-19 resource leads.
+- **Top 50, ZS Prize 2020**  
+  Achieved national recognition out of 6000+ teams for a business entrepreneurship challenge, winning cash prizes and a PPI.
 
 ---
 
-## 🌱 Let’s Connect!  
-Feel free to reach out to discuss ideas, collaborate, or learn more about my work:  
+## 📬 Contact
 
-📧 **Email**: asing153@jh.edu  
-🌐 **LinkedIn**: [Avantika Singh](https://linkedin.com/in/avantika-singh-2a5996155)  
-
-🚀 Let’s innovate and create something impactful together!
+Feel free to reach out via GitHub or email for collaborations, project inquiries, or discussions on data science, machine learning, and healthcare AI!

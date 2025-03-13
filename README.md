@@ -51,6 +51,10 @@ Relevant Coursework: Advanced Statistical Theory, Linear Models, Biostatistics, 
 
 ## 🔧 Key Projects
 
+### **RAG Multimodal Research Paper Retrieval & Summarization Pipeline**  
+*Johns Hopkins University | Feb 2025 – Present*  
+- Built a multimodal RAG pipeline, leveraging a research paper corpus on the latest NLP advancements for query resolution
+
 ### **CliniQure** – *AI-Driven Diagnostic and Treatment Recommendations for Radiology*  
 *Johns Hopkins University | Nov 2024 – Present*  
 - Designed a multimodal AI pipeline combining Faster R-CNN, SE-ResNet, and a cross-modal LLM for chest X-ray analysis and automated diagnostic report generation.

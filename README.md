@@ -1,89 +1,57 @@
 
 ---
 
-# **Hi! I’m Avantika Singh and I’m excited to share my journey with you!**  
+# 👋 Hi, I’m Avantika Singh and I am excited to share my journey with you!
 
-**📧 Email**: [asing153@jh.edu](mailto:asing153@jh.edu)  
-**🔗 LinkedIn**: [linkedin.com/in/avantika-singh-2a5996155/](https://www.linkedin.com/in/avantika-singh-2a5996155/)  
-
----
-## 🧠 Education
-
-**Johns Hopkins University** – *Master of Science in Data Science*  
-*Baltimore, MD | Expected 05/2026*  
-GPA: 3.85/4 (Semester 1)  
-Coursework: Self-Supervised Models, Machine Translation, Bayesian Statistics, Machine Learning for Healthcare
-
-**University of Delhi, Lady Shri Ram College for Women** – *Bachelors of Science (Honors) in Statistics; Minor: Economics*  
-*New Delhi, India | Graduated: May 2022*  
-GPA: 9.365/10 (Distinction) | 3.96/4  
-Relevant Coursework: Advanced Statistical Theory, Linear Models, Biostatistics, Financial Statistics, Statistical Computing (Python, R, C++, SPSS)
+I’m a **Data Science graduate student at Johns Hopkins University** working at the intersection of **machine learning, generative AI, and healthcare systems**. My work spans **agentic RAG systems, multimodal learning, audio deepfake detection, and large-scale EHR modeling**.
 
 ---
 
-## 💻 Skills
+## 🔬 What I’m Working On
 
-- **Programming**: Python, R, SPSS, C, C++, SQL, Apache Spark, MATLAB, LaTeX, STATA, Databricks, CUDA/GPU Parallelization
-- **Machine Learning & NLP**: TensorFlow, PyTorch, Keras, Scikit-Learn, NLTK, Pandas, NumPy, Statsmodels
-- **Tools & Frameworks**: Microsoft Tools, JIRA, GitHub, AWS, Google BigQuery, Power BI, Tableau
-- **Techniques**: EDA, A/B Testing, Regression, Clustering, PCA, Supervised & Unsupervised Learning, Model Deployment
+- **Audio Deepfake Detection & Bias Analysis**  
+  Research at JHU CLSP (SMILE Lab) studying attacker-specific bias, generalization gaps, and robustness across ASVspoof 2019/2021/2024 and MLAAD using RawNet2, AASIST, and self-supervised speech models.
 
----
+- **Healthcare AI @ Scale**  
+  Building production-grade **Neural ODE survival models** on 10M+ longitudinal EHR records at Quest Diagnostics for time-to-event prediction and clinical risk stratification.
 
-## 🔬 Research & Professional Experience
-
-### **Graduate Research Assistant**  
-*Johns Hopkins Carey Business School | Oct 2024 – Present*  
-- Deployed Apache Spark and SQL to analyze EMR/EHR and SDOH data, investigating financial toxicity among oncology patients.
-- Optimized biomarker integration using BioPython, focusing on patient-centered oncology interventions.
-
-### **Management Consulting Delivery Associate**  
-*Accenture Strategy, Life Sciences | Bangalore, India | Sep 2022 – Aug 2024*  
-- Led the deployment of advanced features for Accenture’s patient platform built on Salesforce CRM.
-- Developed analytical models and dashboards, saving 30+ hours/week for employees and improving operational efficiency by 60%.
-
-### **Summer Intern**  
-*Ernst and Young Consulting Services LLP | New Delhi, India | Jun 2021 – Sep 2021*  
-- Built predictive models for growth and pricing in the luxury bike market with 95% accuracy.
-- Created a market feasibility database for agricultural tire brands, supporting entry decisions for US firms.
+- **Agentic RAG Systems**  
+  Designing **LangGraph-based RAG agents** with intent routing, evidence grounding, and structured summarization for medical and research workflows.
 
 ---
 
-## 🔧 Key Projects
+## 🧠 Core Skills
 
-### **RAG Multimodal Research Paper Retrieval & Summarization Pipeline**  
-*Johns Hopkins University | Feb 2025 – Present*  
-- Built a multimodal RAG pipeline, leveraging a research paper corpus on the latest NLP advancements for query resolution
-
-### **CliniQure** – *AI-Driven Diagnostic and Treatment Recommendations for Radiology*  
-*Johns Hopkins University | Nov 2024 – Present*  
-- Designed a multimodal AI pipeline combining Faster R-CNN, SE-ResNet, and a cross-modal LLM for chest X-ray analysis and automated diagnostic report generation.
-
-### **Automated SOAP Note Generation**  
-*Johns Hopkins University | Nov 2024 – Present*  
-- Developed a robust ASR and NLP pipeline leveraging OpenAI’s Whisper and Medical-NER to transcribe and structure physician-patient interactions into SOAP notes.
-
-### **Insight Edge** – *Accenture*  
-*May 2023 – Aug 2024*  
-- Engineered automated workflows for project staffing, saving senior leadership 45+ hours/week and nearly $10,000 in operational costs.
-
-### **Testing Data Feminism**  
-*Apr 2021 – Oct 2021*  
-- Conducted analysis on biases in social media algorithms using R, publishing findings in a paper titled *"Testing Data Feminism in India"*.
+- **ML & AI**: PyTorch, TensorFlow, Transformers, Self-Supervised & Multimodal Learning  
+- **Generative AI**: RAG, LangChain, LangGraph, Ollama, Prompt Engineering  
+- **Speech & Audio**: Deepfake Detection, Speaker Verification, ASR  
+- **Data & Infra**: PySpark, Snowflake, Databricks, FAISS, ChromaDB, AWS  
+- **Languages**: Python, R, C/C++, SQL, Bash
 
 ---
 
-## 🌟 Leadership & Achievements
+## 🚀 Selected Projects
 
-- **President, College Academic Forum (2021-2022)**  
-  Secured $3000 in sponsorships for an international debating tournament and led the team to win 20+ awards.
-- **Founder, "Covid Aid Resources"**  
-  Launched a social media initiative with 200k+ followers to share COVID-19 resource leads.
-- **Top 50, ZS Prize 2020**  
-  Achieved national recognition out of 6000+ teams for a business entrepreneurship challenge, winning cash prizes and a PPI.
+- **Medical RAG Agent** – Agentic RAG system for extracting and clinically grounding side-effects from patient reviews  
+- **Multimodal Research Paper RAG** – High-recall retrieval and summarization pipeline for large academic corpora  
+- **CliniQure** – Vision–language AI for chest X-ray diagnosis and report generation (F1 0.81, BERTScore ~0.98)  
+- **SOAP Note Generation** – Whisper + Flan-T5 pipeline for structured clinical documentation
 
 ---
 
-## 📬 Contact
+## 🏆 Highlights
 
-Feel free to reach out via GitHub or email for collaborations, project inquiries, or discussions on data science, machine learning, and healthcare AI!
+- $25,000 research grant for predicting financial toxicity in oncology patients  
+- Former Accenture Strategy consultant (Life Sciences)  
+- Top 50, ZS Prize (national entrepreneurship challenge)  
+- Founder of a 200k+ follower COVID resource initiative
+
+---
+
+## 📬 Let’s Connect
+
+- **Email**: asing153@jh.edu  
+- **GitHub**: projects, experiments, and research code  
+- **LinkedIn**: research, industry work, and collaborations  
+
+I’m always open to collaborations in **AI research, healthcare ML, agentic systems, and applied deep learning**.

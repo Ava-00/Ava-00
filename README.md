@@ -11,8 +11,10 @@ I’m a **Data Science graduate student at Johns Hopkins University** working at
 
 - **Audio Deepfake Detection & Bias Analysis**  
   Research at JHU CLSP (SMILE Lab) studying attacker-specific bias, generalization gaps, and robustness across ASVspoof 2019/2021/2024 and MLAAD using RawNet2, AASIST, and self-supervised speech models. Improving model interpretability using various information theory metrics to inform better spoof detection via ALLMs
-  **Under Review** Interspeech 2026
-  **In Progress** EMNLP 2026
+  
+  **Under Review :** Interspeech 2026
+  
+  **In Progress :** EMNLP 2026
 
 - **Healthcare AI @ Quest Diagnostics**  
   Building production-grade **Neural ODE survival models** on 10M+ longitudinal EHR records at Quest Diagnostics for time-to-event prediction and clinical risk stratification.
